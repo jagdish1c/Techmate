@@ -55,12 +55,5 @@ To get started with the Techamate web application, follow these steps:
 5. Access the web application by opening a web browser and entering the URL.
 
 6. Explore the various sections, register for an account, and contact Techamate as needed.
-
-## Contact Us
-
-If you have any questions, feedback, or inquiries, please feel free to contact us:
-
-- Email: techamate@example.com
-- Phone: +1 (123) 456-7890
-
+   
 Thank you for using the Techamate web application! We hope you find our services valuable.
