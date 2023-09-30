@@ -47,13 +47,9 @@ The backend is developed using Java Spring, which handles user registration, ser
 To get started with the Techamate web application, follow these steps:
 
 1. Clone the repository:
-2. 
-3. Navigate to the frontend and backend directories and follow the respective README files for setup instructions.
-
-4. Launch the frontend and backend applications.
-
-5. Access the web application by opening a web browser and entering the URL.
-
-6. Explore the various sections, register for an account, and contact Techamate as needed.
+2. Navigate to the frontend and backend directories and follow the respective README files for setup instructions.
+3. Launch the frontend and backend applications.
+4. Access the web application by opening a web browser and entering the URL.
+5. Explore the various sections, register for an account, and contact Techamate as needed.
    
 Thank you for using the Techamate web application! We hope you find our services valuable.
