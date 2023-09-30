@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Poppins:wght@400;500;600&family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,500&family=Source+Sans+3:wght@400;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Mooli';
+  box-sizing: border-box;
+}
+
+
+li:hover{
+  cursor: pointer;
+  border-bottom: 2px solid  rgba(0,212,255,1);
+  color:rgba(0,212,255,1)  ;
+}
+
+button{
+  all: unset;
+  border-radius: 25px;
+  width: 130px;
+  height: 40px;
+  border: 1px solid  rgba(0,212,255,1) ;
+  text-align: center;
+}
+button:hover{
+  all: unset;
+  border-radius: 25px;
+  width: 130px;
+  height: 40px;
+  color: white;
+  transition: 0.8s;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 100% );
+  text-align: center;
+}
+img{
+  width: 100vw;
+  height: 30vh;
+}
+.registration{
+  border: none;
+}
+.navbar a{
+  font-size: 1.3rem !important;
+}
+.col{
+  margin-right: 300px;
+}
+.hero{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo{
+  color:rgba(0,212,255,1);
+}
+.card{
+  border: 1px solid rgba(0,212,255,1);
+}
+a{
+  all: unset;
+}
+.navbar{
+  background-color: white;
+}
+section{
+  height: 82vh;
+}
+
+h5{
+  font-weight: bolder;
+}
+h1{
+ font-weight: bolder;
+}
+.brand-name{
+  color:rgba(0,212,255,1) ;
+}
+
+.animation{
+  animation-name: animation;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.animation{
+  animation: animation 2s ease-in-out infinite alternate-reverse both;
+}
+
+@keyframes animation {
+	0% {
+		transform: translateY(10px);
+	}
+	100% {
+		transform: translateY(-10px);
+	}
+}
+
